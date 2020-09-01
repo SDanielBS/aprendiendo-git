@@ -1,4 +1,5 @@
 Fecha de nacimiento 12/11/1999
 Babeaba
+Ayer no sabía que estudiar
 Fecha actual 1/9/2020
 Estudio git
